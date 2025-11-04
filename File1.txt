@@ -1,1 +1,2 @@
 baris ini ditambahkan di lokal repo 
+baris ini ditambahkan di remote
